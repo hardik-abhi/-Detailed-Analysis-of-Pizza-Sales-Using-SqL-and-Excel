@@ -1,1 +1,1 @@
-# Analysis-of-Pizza-Sales-Using-SqL-and-Excel
+# Detailed Analysis-of-Pizza-Sales-Using-SqL-and-Excel
